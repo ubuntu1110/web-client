@@ -1,0 +1,6 @@
+{
+  "watch": ["src", "routes", "controllers", "models", "bots"],
+  "ignore": ["data/*"],
+  "ext": "js,json",
+  "exec": "node src/index.js"
+}
